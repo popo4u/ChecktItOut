@@ -2,6 +2,7 @@
 
 *.py[cox]
 __pycache__
+misc
 
 # vim
 *.swp
